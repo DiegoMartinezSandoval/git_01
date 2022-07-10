@@ -58,7 +58,7 @@ Had got no business to be there
 
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
-<<<<<<< HEAD
+
 ## Last Verse
 
 I’m a riddle in nine syllables,      
@@ -71,7 +71,4 @@ I’m a means, a stage, a cow in calf.
 I’ve eaten a bag of green apples,     
 Boarded the train there’s no getting off.    
 
-=======
-## Last Verse    
->>>>>>> MidTwo
-<!--Put a short poem of your choice 8-20 lines,here!-->
+
